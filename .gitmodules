@@ -1,0 +1,3 @@
+[submodule "submode"]
+	path = submode
+	url = https://github.com/Darsha1509/NewsApp.git
