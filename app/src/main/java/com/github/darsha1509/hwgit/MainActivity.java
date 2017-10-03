@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         Log.e(LOG_TAG, "feature 2");
 
         Log.e(LOG_TAG, "one more log");
+
+        Log.e(LOG_TAG, "writing some log");
     }
 
     private void newFunction(){
