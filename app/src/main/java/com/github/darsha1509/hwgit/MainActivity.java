@@ -20,8 +20,4 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e(LOG_TAG, "writing some log");
     }
-
-    private void newFunction(){
-
-    }
 }
