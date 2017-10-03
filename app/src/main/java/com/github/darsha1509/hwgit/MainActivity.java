@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e(LOG_TAG, "dev feature");
+        Log.e(LOG_TAG, "feature 2");
     }
 }
