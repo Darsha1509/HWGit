@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e(LOG_TAG, "feature 2");
     }
+
+    private void newFunction(){
+
+    }
 }
