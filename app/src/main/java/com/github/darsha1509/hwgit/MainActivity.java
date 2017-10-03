@@ -18,12 +18,4 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e(LOG_TAG, "one more log");
     }
-
-    private void newFunction(){
-
-    }
-
-    private void newFunctionInFeature(){
-
-    }
 }
